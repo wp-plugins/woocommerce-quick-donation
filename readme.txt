@@ -12,7 +12,7 @@ Online Donation Using Woocoomerce. for woocommerce user's
 
 == Description ==
 
-<h2> What's New In 0.2 </h2>
+=What's New In 0.2=
 * Redirect User After Donation Added To Cart [Cart Page / Checkout Page]
 * Select Your Preferred Payment Gateway For Donation
 * Custom Email Template For Donation Processing
